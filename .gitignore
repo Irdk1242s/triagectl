@@ -1,6 +1,6 @@
 # Binaries
-triagectl
-recon
+/triagectl
+/recon
 *.exe
 *.dll
 *.so
